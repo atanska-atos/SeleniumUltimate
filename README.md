@@ -1,2 +1,2 @@
 # SeleniumUltimate
-Testing website https://ultimateqa.com/automation
+Testing website https://ultimateqa.com/automation using Selenium in Java programming language.
